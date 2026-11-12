@@ -1,0 +1,57 @@
+# ARVAELLE
+
+> ARVAELLE is a Dubai-based online jewellery store selling gold-plated necklaces and jewellery gift sets from AED 229. Every piece arrives in a signature black ARVAELLE gift box with a handwritten card. Orders are placed on WhatsApp (+971 54 178 7801) and delivered across Dubai, same day for orders paid before 2 pm.
+
+## Key facts
+- Location: Dubai, United Arab Emirates (online store)
+- Products: gold-plated jewellery (necklaces, gift sets; more categories coming)
+- Prices: AED 229 to AED 429
+- Ordering: WhatsApp +971 54 178 7801; payment by secure link (Apple Pay, Visa, Mastercard, Aani)
+- Delivery: same day in Dubai if paid before 2 pm; AED 25, free over AED 400; other emirates 1-2 working days
+- Packaging: black gift box, pouch, gift bag, handwritten card, no price inside
+- Exchange: 7 days for unworn pieces in original packaging; 6-month warranty against manufacturing defects
+
+## Products
+- The Solstice Necklace: gold-plated rectangular pendant with an engraved starburst and a single stone. AED 249.
+- The Eternal Loop Necklace: gold-plated sculptural loop pendant with a polished finish. AED 229.
+- The Duo Gift Set: both necklaces in two gift boxes with one card. AED 429 (save 10%).
+
+## Pages
+- https://arvaelle.vercel.app/
+- https://arvaelle.vercel.app/products/solstice/
+- https://arvaelle.vercel.app/products/eternal-loop/
+- https://arvaelle.vercel.app/products/duo-gift-set/
+- https://arvaelle.vercel.app/necklaces/
+- https://arvaelle.vercel.app/chokers/
+- https://arvaelle.vercel.app/long-chains/
+- https://arvaelle.vercel.app/bracelets/
+- https://arvaelle.vercel.app/earrings/
+- https://arvaelle.vercel.app/rings/
+- https://arvaelle.vercel.app/pearls/
+- https://arvaelle.vercel.app/gold-sets/
+- https://arvaelle.vercel.app/gift-sets/
+- https://arvaelle.vercel.app/hair-accessories/
+- https://arvaelle.vercel.app/gold-plated-jewellery-dubai/
+- https://arvaelle.vercel.app/same-day-jewellery-delivery-dubai/
+- https://arvaelle.vercel.app/gifts-for-her-dubai/
+- https://arvaelle.vercel.app/jewellery-gifts-under-250-aed/
+- https://arvaelle.vercel.app/uae-national-day-gifts/
+- https://arvaelle.vercel.app/eid-gifts-dubai/
+- https://arvaelle.vercel.app/valentines-day-jewellery-dubai/
+- https://arvaelle.vercel.app/mothers-day-gifts-uae/
+- https://arvaelle.vercel.app/journal/gold-price-dubai-gift-alternatives/
+- https://arvaelle.vercel.app/journal/demi-fine-vs-fine-vs-fashion-jewellery/
+- https://arvaelle.vercel.app/journal/gold-plated-jewellery-care-uae-heat/
+- https://arvaelle.vercel.app/about-us/
+- https://arvaelle.vercel.app/contact/
+- https://arvaelle.vercel.app/shipping-policy/
+- https://arvaelle.vercel.app/return-policy/
+- https://arvaelle.vercel.app/materials-care-warranty/
+- https://arvaelle.vercel.app/size-guide/
+- https://arvaelle.vercel.app/track-order/
+- https://arvaelle.vercel.app/faqs/
+- https://arvaelle.vercel.app/privacy-policy/
+- https://arvaelle.vercel.app/terms-of-service/
+- https://arvaelle.vercel.app/journal/
+- https://arvaelle.vercel.app/journal/gold-plated-vs-vermeil-vs-solid-gold/
+- https://arvaelle.vercel.app/journal/gold-jewellery-gift-guide-dubai/
